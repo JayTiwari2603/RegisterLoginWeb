@@ -74,7 +74,6 @@ Deploy the project and run on http://localhost:8080/RegisterLoginApp.
 
 ![Welcome Page](https://raw.githubusercontent.com/JayTiwari2603/RegisterLoginWeb/main/WelcomePageSs.png)
 
-
 🙌 Author
 Jayantkumar Tiwari
 Aspiring Full-Stack Java Developer
