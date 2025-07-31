@@ -70,9 +70,10 @@ Configure Apache Tomcat in your IDE.
 
 Deploy the project and run on http://localhost:8080/RegisterLoginApp.
 
-## 🖼️ Screenshot
+## 📸 Screenshot
 
-![Welcome Page](https://raw.githubusercontent.com/JayTiwari2603/RegisterLoginWeb/main/WelcomePageSs.png)
+![Welcome Page](https://github.com/JayTiwari2603/RegisterLoginWeb/blob/main/WelcomePageSs.png?raw=true)
+
 
 
 🙌 Author
