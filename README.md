@@ -72,7 +72,8 @@ Deploy the project and run on http://localhost:8080/RegisterLoginApp.
 
 ## 📸 Screenshot
 
-<img src="https://github.com/JayTiwari2603/RegisterLoginWeb/blob/main/WelcomePageSs.png?raw=true" alt="Welcome Page" width="800"/>
+![Welcome Page](https://github.com/JayTiwari2603/RegisterLoginWeb/blob/main/WelcomePageSs.PNG?raw=true)
+
 
 
 
